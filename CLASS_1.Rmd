@@ -1,0 +1,7 @@
+---
+title: "CLASS_1"
+output: github_document
+---
+
+
+## This is the first class of BIMM 143
