@@ -1,6 +1,0 @@
----
-title: "CLASS_2"
-output: github_document
----
-
-## This is the second class 
